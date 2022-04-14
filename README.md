@@ -5,6 +5,8 @@ A project on Object Detection done with
 * Cv2
 * Yolov5 - uralystics
 
+![Capture](https://user-images.githubusercontent.com/67958716/163404544-f244b21a-6d66-456b-a95a-a9f9e2b0c54b.JPG)
+
 1. Use Jupyter Notebook For this Project
 
 2.This should be installed in the particular folder by pasting it in the Anaconda Prompt
